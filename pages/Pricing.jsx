@@ -13,7 +13,7 @@ export default function PricingPage() {
                             Simple, Transparent Pricing
                         </h1>
                         <p className="text-xl text-gray-600 text-center mb-12 max-w-3xl mx-auto">
-                            Choose the plan that's right for you and start summarizing documents with LearningLens AI today.
+                            Choose the plan that&apos;s right for you and start summarizing documents with LearningLens AI today.
                         </p>
                         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
                             <div className="flex flex-col p-6 bg-white rounded-lg shadow-lg">

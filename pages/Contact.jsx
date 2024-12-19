@@ -13,7 +13,7 @@ export default function ContactPage() {
               Get in Touch
             </h1>
             <p className="text-xl text-gray-600 text-center mb-12 max-w-3xl mx-auto">
-              Have questions or need support? We're here to help. Reach out to us using the form below or contact us directly through our other channels.
+              Have questions or need support? We&apos;re here to help. Reach out to us using the form below or contact us directly through our other channels.
             </p>
             <div className="grid gap-8 lg:grid-cols-2">
               <div className="space-y-4">
